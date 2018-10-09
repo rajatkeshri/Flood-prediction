@@ -1,10 +1,12 @@
 # Flood-prediction
 
 Problem stament:
+
 Disaster prevention and prediction
 Flood prediction using machiine learning approach
 
 Proposed solution:
+
 A dataset with the amount of rainfall and if a flood had occured in a particular area/state/city, in the previous years, will be used. The dataset will have the rainfall data for a duration of 3 months approx.
 
 Using this dataset, we take average rainfall for every 10 days and plot it on a graph to visualize it.
