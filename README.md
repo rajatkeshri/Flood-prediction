@@ -3,7 +3,7 @@
 Problem stament:
 
 Disaster prevention and prediction
-Flood prediction using machiine learning approach
+Flood prediction using machine learning approach.
 
 Proposed solution:
 
