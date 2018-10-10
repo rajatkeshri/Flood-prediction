@@ -24,7 +24,7 @@ APPROACH 2:
 There is an official website called www.india-water.gov.in , which updates itself regularly saying whether the water level in a particular area is 
 1)above normal flood,
 2)severe flooded or
-3)extremely flooded (with colour yellow,orange and red colour respectively).
+3)extremely flooded (with yellow,orange and red colour respectively).
 
 We plan to scrap data out from this webpage from time to time and store it in a database.
 
